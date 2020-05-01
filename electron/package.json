@@ -1,5 +1,5 @@
 {
-    "name": "amolecoin",
+    "name": "Amolecoin",
     "productName": "Amolecoin",
     "author": "amolecoin",
     "main": "app/electron-main.js",
