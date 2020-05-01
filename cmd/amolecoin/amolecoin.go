@@ -43,7 +43,7 @@ var (
 	// BlockchainPubkeyStr pubic key string
 	BlockchainPubkeyStr = "02f37a1c7ebb2716404c1973cd5b3132a313e77b848fa25628bf1520d05365c5dc"
 	// BlockchainSeckeyStr empty private key string
-	BlockchainSeckeyStr = "9f911248dbce148e64eb5801c36638af671a2ee3322383517137b2c6a997622a"
+	BlockchainSeckeyStr = ""
 
 	// GenesisTimestamp genesis block create unix time
 	GenesisTimestamp uint64 = 1426562704
