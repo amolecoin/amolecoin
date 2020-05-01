@@ -1,0 +1,5 @@
+{
+	"data_directory": "IGNORED/.amolecoin",
+	"coin": "amolecoin",
+	"rpc_address": "http://127.0.0.1:1024"
+}
